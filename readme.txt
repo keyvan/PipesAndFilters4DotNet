@@ -12,3 +12,7 @@ with a Keyword in Context (KWIC) implementation sample.
 The implementation is described in details on my blog:
 
 http://keyvan.io/pipes-and-filters-pattern-in-net
+
+NuGet Package:
+
+http://nuget.org/packages/PipesAndFilters4DotNet
