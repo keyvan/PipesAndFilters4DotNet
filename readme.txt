@@ -7,7 +7,7 @@ Contact Info: http://keyvan.tel
 ******************************************************************
 This is a generic .NET library written in C# to faciliate the
 implementation of Pipes and Filters pattern in .NET along
-with a Keyword in Context (KWIC) implementation sample.
+with a Keyword in Context (KWIC) implementation example.
 
 The implementation is described in details on my blog:
 
